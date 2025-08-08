@@ -24,7 +24,3 @@ It includes a navigation bar, header images, a "Pure Hardwork, No Shortcuts!" se
 ## 🛠 Technologies Used
 - **HTML5**
 - **Tailwind CSS** (via CDN)
-
-
-
-## 📂 Project Structure
